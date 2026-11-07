@@ -1,0 +1,28 @@
+imprescindible     lo que no puede descibir
+descabellado       sin meta, sin regala. "headless"... crazy, without regulation and control
+contrariedad       algo no normal; lo que son diferente
+
+Pregunta:
+Imagina que tu gracioso proyecto de servos por fin se mueve, pero algo sale mal en el peor momento. ¿Qué pieza o paso consideras imprescindible para que funcione, cuál ha sido la idea más descabellada que se te ha ocurrido para el proyecto, y cómo resolviste (o resolverías) la mayor contrariedad que has tenido hasta ahora? Responde en tres o cuatro oraciones usando las tres palabras.
+
+
+Es una pregunta muy abierta. El area más vunerable son el centira de timing, tipo GT2 y ancha de nueve millimetros.
+
+
+
+Pistas:
+- imprescindible: algo sin lo cual no se puede hacer nada; totalmente necesario. Ejemplo: «Una fuente de alimentación estable es imprescindible para los servos».
+    ! No es la idea que antes teiene ¡
+
+- descabellado: una idea absurda, loca o poco razonable. Suele usarse con «idea» o «plan»: «Fue un plan descabellado, ¡pero funcionó!».
+   Sí
+  
+- contrariedad: un problema, obstáculo o disgusto inesperado. Ejemplo: «La mayor contrariedad fue que el servo vibraba sin parar».
+   Hrmm...
+
+- Recuerda: «imprescindible» no cambia según el género; «descabellado/descabellada» sí concuerda con el sustantivo.
+- Puedes empezar así: «Para mí, lo imprescindible es…».
+
+
+Es inprescindle que ambos servos funcioná en syncronismo. La idea descabellada de permitir Grok a alterar mi base de codigos no llega faltas todavia, pero todavia la contrariedad es claramente en el software.
+  (no es claro si todavia debe indicar buenos o malos)
